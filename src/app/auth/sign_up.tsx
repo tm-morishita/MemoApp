@@ -2,7 +2,6 @@ import {
   View, Text, TextInput, TouchableOpacity,
   StyleSheet
 } from 'react-native'
-
 import { Link, router } from 'expo-router'
 
 import Header from '../../components/Header'
